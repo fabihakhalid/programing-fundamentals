@@ -1,0 +1,10 @@
+/* General Styles */
+body {
+    margin: 0;
+    font-family: 'Poppins', sans-serif;
+    background: linear-gradient(135deg, #00000000, #22dda5c7);
+    color: #151c88ce;
+    overflow-x: hidden;
+  }
+  
+  
